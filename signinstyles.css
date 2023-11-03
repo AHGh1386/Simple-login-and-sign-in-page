@@ -30,7 +30,8 @@ h2 {
 input[type="email"],
 input[type="password"],
 input[type="submit"] {
-    width: 100%;padding: 10px;
+    width: 90%;
+    padding: 10px;
     margin-bottom: 15px;
     border: 1px solid #ccc;
     border-radius: 3px;
