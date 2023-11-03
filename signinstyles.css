@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    background-image: url(images/signin.png);
+    margin: 0;
+    padding: 0;
+}
+
+/* .container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+} */
+.container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: rgba(255,255,255,0.7);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+input[type="email"],
+input[type="password"],
+input[type="submit"] {
+    width: 100%;padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+.go-to-login-page{
+    text-align: center;
+}
